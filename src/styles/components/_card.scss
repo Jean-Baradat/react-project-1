@@ -4,9 +4,10 @@
   width: 160px;
   border-radius: 4px;
   transition: 0.3s;
+  margin: 10px;
 
-  h2 {
-    font-size: 1rem;
+  h2, h3 {
+    font-size: .8rem;
   }
 
   &:hover {
